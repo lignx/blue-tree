@@ -1,14 +1,19 @@
 
+## Note
+This is an outdated, experiment project, from my early coding days.\
+Have improved significantly, since then.\
+(https://xiggfi.web.app)
+
+-----------------------------------------------------------------
+
 # blue tree
 v0.7
 
-Tree data structure in javascript.
-This implementation is based on closures.
-A prototype based implementation is [peas.js](http://xzzulz.github.com/peas.js)
+Tree data structure in javascript.\
+This implementation is based on closures.\
+A prototype based implementation is (https://github.com/lignx/peas.js)
 
-Tested with [basement tests](http://xzzulz.github.com/blue-tree) (tests in the browser)
-
-license (MIT) included in "license" file.
+Tested with [basement tests](http://lignx.github.io/blue-tree) (tests in the browser. Click the "test" button.)
 
 
 
